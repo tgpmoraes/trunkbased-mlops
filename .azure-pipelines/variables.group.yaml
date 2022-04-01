@@ -1,14 +1,14 @@
 variables:
 - name: SERVICECONNECTION
-  value: rg-dataplatform-dev
+  value: aztgpmai-rg-dev
 - name: WORKSPACENAME
-  value: mlw-trunkbased-dev
+  value: aztgpmaml-dev
 - name: RESOURCEGROUPNAME
-  value: mlops-trunkbased-dev
+  value: aztgpmai-rg
 - name: STORAGEACCOUNTNAME
-  value: aamldatalake
+  value: aztgpmsan3
 - name: LOCATION
-  value: eastus2
+  value: westus
 - name: KEYVAULTNAME
   value: kv-trunkbased-dev
 - name: env
